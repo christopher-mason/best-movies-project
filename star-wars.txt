@@ -1,0 +1,10 @@
+Title: Star Wars: Episode IV- A New Hope
+Year Released: 1977
+Director: George Lucas
+Rating: PG-13
+Genre: Sci-Fi
+Starring:
++Mark Hamill: Luke Skywalker
++Harrison Ford: Han Solo
++Carrie Fisher: Princess Leia Organa
++Alec Guinness: Ben Obi-Wan Kenobi
